@@ -3,3 +3,4 @@ web-ext-artifacts
 web-ext-artifacts.*
 src.*
 src/.web-extension-id
+tmp
