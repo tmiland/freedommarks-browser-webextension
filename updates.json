@@ -1,0 +1,10 @@
+{
+  "addons": {
+    "{freedommarks.extension@tmiland.com}": {
+      "updates": [
+        { "version": "0.1.3",
+          "update_link": "https://github.com/tmiland/freedommarks-browser-webextension/releases/download/v0.1.3/freedommarks-0.1.3.xpi" }
+      ]
+    }
+  }
+}﻿
