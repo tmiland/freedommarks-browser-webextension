@@ -1,5 +1,9 @@
 # Browser extension for Nextcloud Bookmarks
 
+## Forked from [damko/freedommarks-browser-webextension][42974767]
+
+  [42974767]: https://github.com/damko/freedommarks-browser-webextension "damko/freedommarks-browser-webextension"
+
 This is a cross-browser extension for [Nextcloud Bookmarks](https://github.com/nextcloud/bookmarks), a very popular bookmark application for Nextcloud.
 
 It allows you to add, search and delete your Nextcloud Bookmarks.
@@ -33,26 +37,26 @@ This extension is **ready for production** but, of course, it can have bugs.
 
 # Screenshots
 
-![add_bookmark](https://github.com/damko/freedommarks-browser-webextension/blob/master/screenshots/screenshot-freedommarks-add_bookmark.jpg)
+![add_bookmark](https://github.com/tmiland/freedommarks-browser-webextension/blob/master/screenshots/screenshot-freedommarks-add_bookmark.jpg)
 
-![save_bookmark](https://github.com/damko/freedommarks-browser-webextension/blob/master/screenshots/screenshot-freedommarks-save_bookmark.png.jpg)
+![save_bookmark](https://github.com/tmiland/freedommarks-browser-webextension/blob/master/screenshots/screenshot-freedommarks-save_bookmark.png.jpg)
 
-![search_by_tag](https://github.com/damko/freedommarks-browser-webextension/blob/master/screenshots/screenshot-freedommarks-search_by_tag.jpg)
+![search_by_tag](https://github.com/tmiland/freedommarks-browser-webextension/blob/master/screenshots/screenshot-freedommarks-search_by_tag.jpg)
 
-![search_by_tags_AND](https://github.com/damko/freedommarks-browser-webextension/blob/master/screenshots/screenshot-freedommarks-search_by_tags_AND.jpg)
+![search_by_tags_AND](https://github.com/tmiland/freedommarks-browser-webextension/blob/master/screenshots/screenshot-freedommarks-search_by_tags_AND.jpg)
 
-![search_by_tags_OR](https://github.com/damko/freedommarks-browser-webextension/blob/master/screenshots/screenshot-freedommarks-search_by_tags_OR.jpg)
+![search_by_tags_OR](https://github.com/tmiland/freedommarks-browser-webextension/blob/master/screenshots/screenshot-freedommarks-search_by_tags_OR.jpg)
 
 ## Firefox screenshots
 
-![firefox_extensions_list](https://github.com/damko/freedommarks-browser-webextension/blob/master/screenshots/screenshot-freedommarks-firefox_extensions_list.jpg)
+![firefox_extensions_list](https://github.com/tmiland/freedommarks-browser-webextension/blob/master/screenshots/screenshot-freedommarks-firefox_extensions_list.jpg)
 
-![firefox_options](https://github.com/damko/freedommarks-browser-webextension/blob/master/screenshots/screenshot-freedommarks-firefox_options.jpg)
+![firefox_options](https://github.com/tmiland/freedommarks-browser-webextension/blob/master/screenshots/screenshot-freedommarks-firefox_options.jpg)
 
 ## Chrome screenshots
 Update 2018-02-28. Please don't use this extension for now. I didn't have the time to update it yet.
 
-![chrome_options](https://github.com/damko/freedommarks-browser-webextension/blob/master/screenshots/screenshot-freedommarks-chrome_options.jpg)
+![chrome_options](https://github.com/tmiland/freedommarks-browser-webextension/blob/master/screenshots/screenshot-freedommarks-chrome_options.jpg)
 
 # Help needed
 
@@ -89,7 +93,7 @@ Update 2018-02-28. Please don't use this extension for now. I didn't have the ti
 
 Clone this extension repository in your pc:
 
-    git clone git@github.com:damko/freedommarks-browser-webextension.git
+    git clone git@github.com:tmiland/freedommarks-browser-webextension.git
 
 Open Firefox and paste this `about:debugging` in the URL bar
 
