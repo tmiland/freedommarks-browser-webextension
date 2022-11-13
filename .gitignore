@@ -4,3 +4,7 @@ web-ext-artifacts.*
 src.*
 src/.web-extension-id
 tmp
+node_modules
+.eslintrc.json
+package.json
+package-lock.json
